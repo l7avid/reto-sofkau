@@ -9,7 +9,7 @@ Para visualizar la solución planteada en el paradigama de orientación a objeto
 3. Escribir el comando "git clone" y enseguida pegar la URL del paso 1.
 4. Presionar Enter
 
-**Ejecución del programa
+**Ejecución del programa**
 
 Una vez clonado el reposotorio, para la ejecución del programa se debe abrir una terminal nueva y ejecutar la siguiente línea de comando: "python main.py"
 
